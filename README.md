@@ -1,4 +1,4 @@
-# Mario-Vs.-Wario Image Classifier
+  #                                           Mario-Vs.-Wario Image Classifier
 ![title](images/Wario_Gameplay.jpg)
 
 ![title](images/Mario_Gameplay.jpg)
